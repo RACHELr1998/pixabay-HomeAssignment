@@ -22,7 +22,7 @@ npm i
 1. First, Run the Backend: (Make sure you’re on the Pixabay-Assignment folder)
 ```
 cd Backend
-node app.js
+npm start
 ```
 2. Next, Run the Frontend:
 ```
